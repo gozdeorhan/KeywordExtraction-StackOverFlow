@@ -4,7 +4,7 @@ A machine learning project to assign keywords to Stack Overflow posts. During th
 
 The dataset contains a large number of posts and associated tags where the facilitators of the competition collected a large sample of Stack Exchange posts to provide. These posts cover both technical and non-technical topics where it can be seen that text data consist natural language as well as programming language. The file is organized in a .CSV file format, contains text data and have a size of 7.26 GB.
 
-Due to the technical limitations, it is decided not to utilize the whole dataset but to utilize a subset of it. Thus, this works includes a great amount of pre-processing and manipulation. 
+Due to the technical limitations, it is decided not to utilize the whole dataset but to utilize a subset of it (1.2 GB). Thus, this works includes a great amount of pre-processing and manipulation. 
 
 Variables are as follows;
 - Id: Post id.
