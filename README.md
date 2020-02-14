@@ -7,7 +7,7 @@ The dataset contains a large number of posts and associated tags where the facil
 Due to the technical limitations, it is decided not to utilize the whole dataset but to utilize a subset of it. Thus, this works includes a great amount of pre-processing and manipulation. 
 
 Variables are as follows;
-Id: Post id.
-Title: Post title.
-Body: Question.
-Tags: Multiple tags related to the question's scope.
+- Id: Post id.
+- Title: Post title.
+- Body: Question.
+- Tags: Multiple tags related to the question's scope.
